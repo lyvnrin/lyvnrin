@@ -68,12 +68,13 @@ STATUS →  Open to Data / SWE Summer Internships 2026
 
 `Python` `FastAPI` `React` `SQLite` · [**View →**](https://github.com/lyvnrin/mini-search-engine)
 
-<br/>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lyvnrin.lyvnrin&color=8B0000&labelColor=F5E6D3)
 
-<br/>
-
-<sub>— printed in London —</sub>
-
+<div align="center">
+  <br/>
+  
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lyvnrin.lyvnrin&color=8B0000&labelColor=F5E6D3)
+  
+  <br/>
+  <sub>— printed in London —</sub>
 </div>
