@@ -6,6 +6,8 @@
 
 <p><em>CS Student &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; Data Enthusiast</em></p>
 
+[Portfolio](https://lavanyakamble.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/lavanyakamble/)
+
 </div>
 
 ---
@@ -65,12 +67,6 @@ STATUS →  Open to Data / SWE Summer Internships 2026
 > A PageRank-powered mini search engine - because why google it when you can engineer it?
 
 `Python` `FastAPI` `React` `SQLite` · [**View →**](https://github.com/lyvnrin/mini-search-engine)
-
-## · ELSEWHERE ·
-
-<div align="center">
-
-[Portfolio](https://lavanyakamble.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/lavanyakamble/)
 
 <br/>
 
