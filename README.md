@@ -1,30 +1,35 @@
 <div align="center">
-
 <sub>— EST. 2026 —</sub>
-
-# ✦ Lavanya Kamble ✦
-
-<p><em>CS Student &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; Data Enthusiast</em></p>
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=80&text=Lavanya%20Kamble&fontColor=F5E6D3&fontSize=36&fontAlignY=45&desc=CS%20Student%20·%20Full%20Stack%20Developer%20·%20Data%20Enthusiast&descSize=13&descAlignY=80&descColor=F5E6D3" width="100%"/>
+<br/><br/>
 
 [Portfolio](https://lavanyakamble.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/lavanyakamble/)
-
+<br/>
 </div>
 
 ---
-## · ABOUT ·
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## · 𝐀𝐁𝐎𝐔𝐓 ·
 
 ```
 NAME   →  Lavanya Kamble
 BASED  →  London, UK
-FOCUS  →  Building full-stack tools at the intersection of data and design
-STATUS →  Open to Data / SWE Summer Internships 2026
+FOCUS  →  Building full-stack tools at the
+          intersection of data and design
+STATUS →  Open to Data / SWE Summer
+          Internships 2026
 ```
 
----
+<br/>
 
-## · STACK ·
+## · 𝐒𝐓𝐀𝐂𝐊 ·
 
-**Data** : 
+**Data** :
 ![NumPy](https://img.shields.io/badge/NumPy-F5E6D3?style=flat-square&logo=numpy&logoColor=8B0000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F5E6D3?style=flat-square&logo=postgresql&logoColor=8B0000)
 ![MS Excel](https://img.shields.io/badge/MS%20Excel-F5E6D3?style=flat-square&logo=microsoftexcel&logoColor=8B0000)
@@ -49,31 +54,41 @@ STATUS →  Open to Data / SWE Summer Internships 2026
 ![Linux/WSL](https://img.shields.io/badge/Linux%2FWSL-F5E6D3?style=flat-square&logo=linux&logoColor=8B0000)
 ![React](https://img.shields.io/badge/React-F5E6D3?style=flat-square&logo=react&logoColor=8B0000)
 
----
+</td>
+<td width="50%" valign="top">
 
-## · WORKS ·
+## · 𝐖𝐎𝐑𝐊𝐒 ·
 
 ### ◆ Oaxaca
 > Full-stack restaurant management system with role-based dashboards for customers, waiters, kitchen, and managers.
 
 `React` `FastAPI` `SQLite` `Python` · [**View →**](https://github.com/lyvnrin/oaxaca)
 
+---
+
 ### ◆ Valora
-> An AI-powered financial chatbot that surfaces economic insights and stock data as clean, filterable charts - because financial data should be legible to everyone.
+> An AI-powered financial chatbot that surfaces economic insights and stock data as clean, filterable charts — because financial data should be legible to everyone.
 
 `React` `Python` · [**View →**](https://github.com/lyvnrin/Valora)
 
+---
+
 ### ◆ Lav-oogle
-> A PageRank-powered mini search engine - because why google it when you can engineer it?
+> A PageRank-powered mini search engine — because why google it when you can engineer it?
 
 `Python` `FastAPI` `React` `SQLite` · [**View →**](https://github.com/lyvnrin/mini-search-engine)
 
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
   <br/>
-  
+
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lyvnrin.lyvnrin&color=8B0000&labelColor=F5E6D3)
-  
+
   <br/>
   <sub>— printed in London —</sub>
 </div>
