@@ -56,7 +56,7 @@ STATUS →  Open to Data / SWE Summer Internships 2026
 ### ◆ Oaxaca
 > Full-stack restaurant management system with role-based dashboards for customers, waiters, kitchen, and managers.
 
-`React` `FastAPI` `MySQL` `Python` · [**View →**](https://github.com/lyvnrin/oaxaca)
+`React` `FastAPI` `SQLite` `Python` · [**View →**](https://github.com/lyvnrin/oaxaca)
 
 ### ◆ Valora
 > An AI-powered financial chatbot that surfaces economic insights and stock data as clean, filterable charts - because financial data should be legible to everyone.
@@ -67,7 +67,6 @@ STATUS →  Open to Data / SWE Summer Internships 2026
 > A PageRank-powered mini search engine - because why google it when you can engineer it?
 
 `Python` `FastAPI` `React` `SQLite` · [**View →**](https://github.com/lyvnrin/mini-search-engine)
-
 
 
 <div align="center">
