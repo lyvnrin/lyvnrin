@@ -1,8 +1,7 @@
 <div align="center">
-<sub>— EST. 2026 —</sub>
-<br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=80&text=Lavanya%20Kamble&fontColor=F5E6D3&fontSize=36&fontAlignY=45&desc=CS%20Student%20·%20Full%20Stack%20Developer%20·%20Data%20Enthusiast&descSize=13&descAlignY=80&descColor=F5E6D3" width="100%"/>
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:580000&height=180&text=Lavanya%20Kamble&fontColor=F5E6D3&fontSize=40&fontAlignY=38&desc=CS%20Student%20·%20Full%20Stack%20Developer%20·%20Data%20Enthusiast&descSize=14&descAlignY=55&descColor=F5E6D3" width="100%"/>
+
+<br/>
 
 [Portfolio](https://lavanyakamble.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/lavanyakamble/)
 <br/>
@@ -54,6 +53,16 @@ STATUS →  Open to Data / SWE Summer
 ![Linux/WSL](https://img.shields.io/badge/Linux%2FWSL-F5E6D3?style=flat-square&logo=linux&logoColor=8B0000)
 ![React](https://img.shields.io/badge/React-F5E6D3?style=flat-square&logo=react&logoColor=8B0000)
 
+<br/>
+
+## · 𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒 ·
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lyvnrin&layout=compact&langs_count=6&bg_color=F5E6D3&title_color=8B0000&text_color=580000&border_color=8B0000&hide_border=false)
+
+</div>
+
 </td>
 <td width="50%" valign="top">
 
@@ -67,14 +76,14 @@ STATUS →  Open to Data / SWE Summer
 ---
 
 ### ◆ Valora
-> An AI-powered financial chatbot that surfaces economic insights and stock data as clean, filterable charts - because financial data should be legible to everyone.
+> An AI-powered financial chatbot that surfaces economic insights and stock data as clean, filterable charts — because financial data should be legible to everyone.
 
 `React` `Python` · [**View →**](https://github.com/lyvnrin/Valora)
 
 ---
 
 ### ◆ Lav-oogle
-> A PageRank-powered mini search engine, because why google it when you can engineer it?
+> A PageRank-powered mini search engine — because why google it when you can engineer it?
 
 `Python` `FastAPI` `React` `SQLite` · [**View →**](https://github.com/lyvnrin/mini-search-engine)
 
@@ -91,4 +100,7 @@ STATUS →  Open to Data / SWE Summer
 
   <br/>
   <sub>— printed in London —</sub>
+
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:580000,100:8B0000&height=120&section=footer" width="100%"/>
 </div>
