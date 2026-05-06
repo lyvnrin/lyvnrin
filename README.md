@@ -55,13 +55,7 @@ STATUS →  Open to Data / SWE Summer
 
 <br/>
 
-## · 𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒 ·
 
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lyvnrin&layout=compact&langs_count=6&bg_color=F5E6D3&title_color=8B0000&text_color=580000&border_color=8B0000&hide_border=false)
-
-</div>
 
 </td>
 <td width="50%" valign="top">
