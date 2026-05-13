@@ -77,7 +77,7 @@ STATUS →  Open to Data / SWE Summer
 ---
 
 ### ◆ Lav-oogle
-> A PageRank-powered mini search engine; why google it when you can engineer it?
+> A PageRank-power and inspired mini search engine; why google it when you can engineer it?
 
 `Python` `FastAPI` `React` `NumPy` · [**View →**](https://github.com/lyvnrin/mini-search-engine)
 
