@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,100:162444&height=180&text=Lavanya%20Kamble&fontColor=F5E6D3&fontSize=40&fontAlignY=38&desc=CS%20Student%20·%20Full%20Stack%20Developer%20·%20Data%20Enthusiast&descSize=14&descAlignY=55&descColor=F5E6D3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2B8D,100:1A4FA8&height=180&text=Lavanya%20Kamble&fontColor=FFF&fontSize=40&fontAlignY=38&desc=CS%20Student%20·%20Full%20Stack%20Developer%20·%20Data%20Enthusiast&descSize=14&descAlignY=55&descColor=F5E6D3" width="100%"/>
 <br/>
 
 [Portfolio](https://lavanyakamble.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/lavanyakamble/)
@@ -26,29 +26,29 @@ STATUS →  Open to Data / SWE Summer
 ## · 𝐒𝐓𝐀𝐂𝐊 ·
 
 **Data** :
-![NumPy](https://img.shields.io/badge/NumPy-F5E6D3?style=flat-square&logo=numpy&logoColor=0A1628)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F5E6D3?style=flat-square&logo=postgresql&logoColor=0A1628)
-![MS Excel](https://img.shields.io/badge/MS%20Excel-F5E6D3?style=flat-square&logo=microsoftexcel&logoColor=0A1628)
+![NumPy](https://img.shields.io/badge/NumPy-F5E6D3?style=flat-square&logo=numpy&logoColor=0D2B6B)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F5E6D3?style=flat-square&logo=postgresql&logoColor=0D2B6B)
+![MS Excel](https://img.shields.io/badge/MS%20Excel-F5E6D3?style=flat-square&logo=microsoftexcel&logoColor=0D2B6B)
 
 **Deployment** :
-![FastAPI](https://img.shields.io/badge/FastAPI-F5E6D3?style=flat-square&logo=fastapi&logoColor=0A1628)
-![Flask](https://img.shields.io/badge/Flask-F5E6D3?style=flat-square&logo=flask&logoColor=0A1628)
-![Vercel](https://img.shields.io/badge/Vercel-F5E6D3?style=flat-square&logo=vercel&logoColor=0A1628)
+![FastAPI](https://img.shields.io/badge/FastAPI-F5E6D3?style=flat-square&logo=fastapi&logoColor=0D2B6B)
+![Flask](https://img.shields.io/badge/Flask-F5E6D3?style=flat-square&logo=flask&logoColor=0D2B6B)
+![Vercel](https://img.shields.io/badge/Vercel-F5E6D3?style=flat-square&logo=vercel&logoColor=0D2B6B)
 
 **Design** :
-![Figma](https://img.shields.io/badge/Figma-F5E6D3?style=flat-square&logo=figma&logoColor=0A1628)
-![Lovable](https://img.shields.io/badge/Lovable-F5E6D3?style=flat-square&logoColor=0A1628)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-F5E6D3?style=flat-square&logo=html5&logoColor=0A1628)
+![Figma](https://img.shields.io/badge/Figma-F5E6D3?style=flat-square&logo=figma&logoColor=0D2B6B)
+![Lovable](https://img.shields.io/badge/Lovable-F5E6D3?style=flat-square&logoColor=0D2B6B)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-F5E6D3?style=flat-square&logo=html5&logoColor=0D2B6B)
 
 **Scripting** :
-![Python](https://img.shields.io/badge/Python-F5E6D3?style=flat-square&logo=python&logoColor=0A1628)
-![JavaScript](https://img.shields.io/badge/JavaScript-F5E6D3?style=flat-square&logo=javascript&logoColor=0A1628)
-![Java](https://img.shields.io/badge/Java-F5E6D3?style=flat-square&logo=openjdk&logoColor=0A1628)
+![Python](https://img.shields.io/badge/Python-F5E6D3?style=flat-square&logo=python&logoColor=0D2B6B)
+![JavaScript](https://img.shields.io/badge/JavaScript-F5E6D3?style=flat-square&logo=javascript&logoColor=0D2B6B)
+![Java](https://img.shields.io/badge/Java-F5E6D3?style=flat-square&logo=openjdk&logoColor=0D2B6B)
 
 **Tools** :
-![Git](https://img.shields.io/badge/Git-F5E6D3?style=flat-square&logo=git&logoColor=0A1628)
-![Linux/WSL](https://img.shields.io/badge/Linux%2FWSL-F5E6D3?style=flat-square&logo=linux&logoColor=0A1628)
-![React](https://img.shields.io/badge/React-F5E6D3?style=flat-square&logo=react&logoColor=0A1628)
+![Git](https://img.shields.io/badge/Git-F5E6D3?style=flat-square&logo=git&logoColor=0D2B6B)
+![Linux/WSL](https://img.shields.io/badge/Linux%2FWSL-F5E6D3?style=flat-square&logo=linux&logoColor=0D2B6B)
+![React](https://img.shields.io/badge/React-F5E6D3?style=flat-square&logo=react&logoColor=0D2B6B)
 <br/>
 
 </td>
@@ -84,9 +84,9 @@ STATUS →  Open to Data / SWE Summer
 <div align="center">
   <br/>
 
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lyvnrin.lyvnrin&color=0A1628&labelColor=F5E6D3)
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lyvnrin.lyvnrin&color=0D2B6B&labelColor=F5E6D3)
   <br/>
   <sub>— printed in London —</sub>
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:162444,100:0A1628&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A4FA8,100:0a2b8d&height=120&section=footer" width="100%"/>
 </div>
