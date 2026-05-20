@@ -56,10 +56,10 @@ STATUS →  Open to Data / SWE Summer
 
 ## · 𝐖𝐎𝐑𝐊𝐒 ·
 
-### ◆ Oaxaca
+### ◆ CW2
 > Full-stack restaurant management system with role-based dashboards for customers, waiters, kitchen, and managers.
 
-`React` `FastAPI` `SQLite` `Python` · [**View →**](https://github.com/lyvnrin/oaxaca)
+`React` `FastAPI` `SQLite` `Python` · [**View →**](https://github.com/lyvnrin/CW2)
 
 ---
 
