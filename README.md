@@ -1,11 +1,3 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2B8D,100:1A4FA8&height=180&text=Lavanya%20Kamble&fontColor=FFF&fontSize=40&fontAlignY=38&desc=CS%20Student%20·%20Full%20Stack%20Developer%20·%20Data%20Scientist Interest&descSize=14&descAlignY=55&descColor=F5E6D3" width="100%"/>
-<br/>
-
-[Portfolio](https://lavanyakamble.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/lavanyakamble/)
-<br/>
-</div>
-
 ---
 
 <table>
