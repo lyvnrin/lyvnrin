@@ -47,4 +47,4 @@ A PageRank-powered mini search engine — why google it when you can engineer it
 
 ---
 
-<sub>![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lyvnrin.lyvnrin&color=0D2B6B&labelColor=F5E6D3)</sub>
+<sub>![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lyvnrin.lyvnrin&color=0D2B6B&labelColor=F5E6D3)</sub> <sub>[![LinkedIn](https://img.shields.io/badge/LinkedIn-F5E6D3?style=flat-square&logo=linkedin&logoColor=0D2B6B)](https://linkedin.com/in/lavanyakamble)</sub>
