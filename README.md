@@ -43,7 +43,7 @@ Full-stack restaurant management system with role-based dashboards for customers
 An AI-powered financial chatbot that surfaces economic insights and stock data as clean, filterable charts, because financial data should be legible to everyone.
 
 **№ 03 &nbsp;·&nbsp; Lav-oogle** &emsp; `Python` `FastAPI` `React` `NumPy` &emsp; [**View →**](https://github.com/lyvnrin/mini-search-engine)  
-A PageRank-powered mini search engine — why google it when you can engineer it?
+A PageRank-powered mini search engine, why google it when you can engineer it?
 
 ---
 
