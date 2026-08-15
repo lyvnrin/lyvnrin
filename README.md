@@ -34,14 +34,4 @@ BA Summer Intern @ TCS 2026
 
 ---
 
-## 𝐖𝐎𝐑𝐊𝐒
-
-**№ 01 &nbsp;·&nbsp; CW2** &emsp; `React` `FastAPI` `SQLite` `Python` &emsp; [**View →**](https://github.com/lyvnrin/CW2)  
-Full-stack restaurant management system with role-based dashboards for customers, waiters, kitchen, and managers.
-
-**№ 02 &nbsp;·&nbsp; Valora** &emsp; `React` `Python` &emsp; [**View →**](https://github.com/lyvnrin/Valora)  
-An AI-powered financial chatbot that surfaces economic insights and stock data as clean, filterable charts, because financial data should be legible to everyone.
-
----
-
 <sub>![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lyvnrin.lyvnrin&color=0D2B6B&labelColor=F5E6D3)</sub> 
