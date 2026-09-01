@@ -18,8 +18,6 @@ Interested in data science, AI, and where computational thinking meets real-worl
 
 **Tools** · Git · Linux/WSL · React
 
----
-
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/lavanyakamble/) · [Portfolio](https://lavanyakamble.vercel.app/)
