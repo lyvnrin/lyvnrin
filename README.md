@@ -1,8 +1,8 @@
 # Lavanya Kamble
 
-**BSc Computer Science · Royal Holloway, University of London · London, UK** | BA Summer Intern @ TCS 2026
+**BSc Computer Science · RHUL · London, UK**
 
-Interested in data science, AI, and where computational thinking meets real-world decision-making.
+Interested in data science, AI.
 
 ## Stack
 
